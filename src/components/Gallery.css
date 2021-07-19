@@ -1,0 +1,7 @@
+.card {
+    display: inline-flex;
+}
+.img {
+    width: 200px;
+    height: auto;
+}
